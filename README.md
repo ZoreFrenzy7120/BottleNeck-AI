@@ -1,5 +1,7 @@
 # BottleNeck-AI
 it is command Assistant Ai
+it is not complete project 
+it is in process
 
 💡 Project Title: Bottleneck AI – Voice Assistant for Windows
 📋 Description:
